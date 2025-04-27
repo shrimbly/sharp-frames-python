@@ -1,6 +1,6 @@
-# Sharp Frames Python Script
+# Sharp Frames Python
 
-A standalone Python script that extracts frames from a video or processes images from a directory, scores them for sharpness, and selects the best frames based on various methods. This script is using the same selection methods as found in the Sharp Frames application by [Reflct](https://reflct.app)
+Extracts frames from a video or processes images from a directory, scores them for sharpness, and selects the best frames based on various methods. This script is using the same selection methods as found in the Sharp Frames application by [Reflct](https://reflct.app). For the full version, go to [Sharp Frames](https://sharp-frames.reflct.app), or join our [discord](https://discord.gg/rfYNxSw3yx) for access to the beta windows version.
 
 ## Requirements
 
